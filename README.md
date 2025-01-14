@@ -4,7 +4,7 @@ An *extremely* simple Flutter package that deterministically converts arbitrary 
 
 ## Usage
 
-<img src="https://raw.githubusercontent.com/mattrltrent/random_assets/refs/heads/main/colorify_ex.gif" height="500px"/>
+<img src="https://raw.githubusercontent.com/mattrltrent/random_assets/refs/heads/main/colorify_ex.gif" height="auto" width="30%"/>
 
 ### Basic Example
 
