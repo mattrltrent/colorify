@@ -5,7 +5,7 @@ version: 0.0.1
 homepage: https://matthewtrent.me
 repository: https://github.com/mattrltrent/colorify
 issue_tracker: https://github.com/mattrltrent/colorify/issues
-topics: [flutter, color, random, deterministic]
+topics: [flutter, color, random, deterministic, color-generation]
 
 environment:
   sdk: ^3.5.4
