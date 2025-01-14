@@ -1,6 +1,6 @@
 name: colorify
 description: A simple Flutter package to generate deterministic, random colors from a given dynamic seed.
-version: 0.0.1
+version: 0.0.2
 
 homepage: https://matthewtrent.me
 repository: https://github.com/mattrltrent/colorify
